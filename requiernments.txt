@@ -14,4 +14,4 @@ opencv-python
 colorhash
 tensorflow
 natsort
-MKUtils @ git+https://github.com/mkals/MKUtils.git
+BacteriaPadAnalysis @ git+https://github.com/Cicuta-group/BacteriaPadAnalysis.git
