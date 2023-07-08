@@ -1,17 +1,4 @@
-six
-ply
-python-decouple
-tqdm
-polylabel-pyo3
+numpy
 pandas
-seaborn
-scipy
-sigfig
-rdp
-fil-finder
-scikit-learn
-opencv-python
-colorhash
-tensorflow
-natsort
-BacteriaPadAnalysis @ git+https://github.com/Cicuta-group/BacteriaPadAnalysis.git
+matplotlib
+PadAnalysis @ git+https://github.com/Cicuta-group/PadAnalysis.git
