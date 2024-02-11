@@ -1,4 +1,5 @@
 numpy
 pandas
 matplotlib
-PadAnalysis @ git+https://github.com/Cicuta-group/PadAnalysis.git
+natsort
+PadAnalyser @ git+https://github.com/Cicuta-Group/PadAnalyser.git
