@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/661665175.svg)](https://zenodo.org/doi/10.5281/zenodo.10646763)
+
 # Multi-pad Agarose Plate (MAP) imaging
 
 This repository contains all the information you need to get up and running with imaging using the multipad agarose plate (MAP).
@@ -9,7 +11,7 @@ This repository contains all the information you need to get up and running with
 ## Getting started with the analysis code
 
 - Clone this repository.
-- Make a python virtual environment.
+- Make a Python virtual environment.
 - Install the requirements with `pip install -r requirements.txt` into that environment.
 - Open one of the Jupyter Notebooks to see how this can be used. Get started right away with example images included in this repository.
 
